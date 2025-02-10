@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si utilizas este software, por favor cítalo de la siguiente manera."
+authors:
+  - family-names: "Callejas Álvarez"
+    given-names: "Juan Francisco"
+title: "Análisis de la predicción del tiempo con técnicas de Machine Learning mediante la obtención de una base de datos"
+version: "1.0"
+date-released: 2025-02-10
+url: "https://github.com/jcallejas/analisis-prediccion-tiempo"
